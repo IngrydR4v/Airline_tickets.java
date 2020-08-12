@@ -1,10 +1,7 @@
 import java.util.Scanner;
 
 public class Passagens_Aereas_1 {
-
-//    Emitir o seguinte relatório:
-//            - Nome do passageiro - Código do assento - Classe(1º classe ou econômica)
-
+    
     private static final int QTD_ASSENTOS = 40;
 
     public static void passagens() {
