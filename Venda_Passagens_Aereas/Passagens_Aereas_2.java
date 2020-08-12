@@ -5,8 +5,7 @@ public class Passagens_Aereas_2 {
     private static final int QTD_ASSENTOS = 40;
 
     public static void passagens() {
-        // 40 lugares
-
+        
         Scanner scanner = new Scanner(System.in);
 
         java.lang.String[][] assentos = getAssentos();
